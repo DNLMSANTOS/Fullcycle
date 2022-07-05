@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656988587,,"wq"
+|2,0,1656992747,,"wq"
+:q
+|2,0,1656990995,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +27,59 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/index.html
-|4,48,1,18,1656988587,"~/index.html"
-'1  1  7  ~/.bash_profile
-|4,49,1,7,1656944382,"~/.bash_profile"
+'0  1  26  ~/contact.html
+|4,48,1,26,1656992747,"~/contact.html"
+'1  1  0  ~/html/index.html
+|4,49,1,0,1656990995,"~/html/index.html"
+'2  1  18  ~/index.html
+|4,50,1,18,1656988587,"~/index.html"
+'3  1  7  ~/.bash_profile
+|4,51,1,7,1656944382,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1656988587,"~/index.html"
 -'  1  7  ~/.bash_profile
 |4,39,1,7,1656944382,"~/.bash_profile"
 -'  1  7  ~/.bash_profile
 |4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  7  ~/.bash_profile
+|4,39,1,7,1656944382,"~/.bash_profile"
 
 # History of marks within files (newest to oldest):
+
+> ~/contact.html
+	*	1656992743	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/html/index.html
+	*	1656990988	0
+	"	1	0
 
 > ~/index.html
 	*	1656988580	0

@@ -4,5 +4,6 @@
 	name = DNLMSANTOS
 [commit]
 	gpgsign = true
+	gpgsing = true
 [tag]
 	gpgsign = true
