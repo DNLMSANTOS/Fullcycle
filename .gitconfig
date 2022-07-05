@@ -1,0 +1,8 @@
+[user]
+	signingkey = 4B2D2B3CFEC3B50E
+	email = danilomartins.santos@gmail.com
+	name = DNLMSANTOS
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
