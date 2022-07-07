@@ -283,3 +283,17 @@
 [2022-07-04T00:35:49.232073100Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.azure, linkPath = <HOME>/.azure
 [2022-07-04T00:35:49.250380800Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/DANILO.SANTOS/.azure: they are the same path already
 [2022-07-04T00:35:50.260574500Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.docker/features.json, linkPath = ~/.docker/features.json
+[2022-07-05T12:04:49.328549900Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/DANILO.SANTOS/.docker/contexts
+[2022-07-05T12:04:49.427642400Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/DANILO.SANTOS/.docker/contexts: syncNoop
+[2022-07-05T12:04:50.494931700Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.aws, linkPath = <HOME>/.aws
+[2022-07-05T12:04:50.507744200Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/DANILO.SANTOS/.aws: they are the same path already
+[2022-07-05T12:04:51.810217700Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.azure, linkPath = <HOME>/.azure
+[2022-07-05T12:04:51.824599200Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/DANILO.SANTOS/.azure: they are the same path already
+[2022-07-05T12:04:53.115924200Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.docker/features.json, linkPath = ~/.docker/features.json
+[2022-07-06T12:05:09.105348800Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/DANILO.SANTOS/.docker/contexts
+[2022-07-06T12:05:09.118203900Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/DANILO.SANTOS/.docker/contexts: syncNoop
+[2022-07-06T12:05:10.005372900Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.aws, linkPath = <HOME>/.aws
+[2022-07-06T12:05:10.016347300Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/DANILO.SANTOS/.aws: they are the same path already
+[2022-07-06T12:05:10.991557600Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.azure, linkPath = <HOME>/.azure
+[2022-07-06T12:05:11.001956100Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/DANILO.SANTOS/.azure: they are the same path already
+[2022-07-06T12:05:11.983783200Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/DANILO.SANTOS/.docker/features.json, linkPath = ~/.docker/features.json
