@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657162401,,"wq"
+|2,0,1657164421,,"wq"
 :q
 |2,0,1656990995,,"q"
 
@@ -27,24 +27,32 @@
 # Registers:
 
 # File marks:
-'0  38  79  ~/.github/PULL_REQUEST_TEMPLATE.md
-|4,48,38,79,1657162401,"~/.github/PULL_REQUEST_TEMPLATE.md"
-'1  1  45  ~/product.html
-|4,49,1,45,1657153086,"~/product.html"
-'2  1  8  ~/.gnupg/gpp.conf
-|4,50,1,8,1656993334,"~/.gnupg/gpp.conf"
-'3  1  26  ~/contact.html
-|4,51,1,26,1656992747,"~/contact.html"
-'4  1  0  ~/html/index.html
-|4,52,1,0,1656990995,"~/html/index.html"
-'5  1  18  ~/index.html
-|4,53,1,18,1656988587,"~/index.html"
-'6  1  7  ~/.bash_profile
-|4,54,1,7,1656944382,"~/.bash_profile"
+'0  1  8  ~/product.html
+|4,48,1,8,1657164421,"~/product.html"
+'1  38  79  ~/.github/PULL_REQUEST_TEMPLATE.md
+|4,49,38,79,1657162401,"~/.github/PULL_REQUEST_TEMPLATE.md"
+'2  1  45  ~/product.html
+|4,50,1,45,1657153086,"~/product.html"
+'3  1  8  ~/.gnupg/gpp.conf
+|4,51,1,8,1656993334,"~/.gnupg/gpp.conf"
+'4  1  26  ~/contact.html
+|4,52,1,26,1656992747,"~/contact.html"
+'5  1  0  ~/html/index.html
+|4,53,1,0,1656990995,"~/html/index.html"
+'6  1  18  ~/index.html
+|4,54,1,18,1656988587,"~/index.html"
+'7  1  7  ~/.bash_profile
+|4,55,1,7,1656944382,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  1  8  ~/product.html
+|4,39,1,8,1657164421,"~/product.html"
 -'  38  79  ~/.github/PULL_REQUEST_TEMPLATE.md
 |4,39,38,79,1657162401,"~/.github/PULL_REQUEST_TEMPLATE.md"
+-'  38  79  ~/.github/PULL_REQUEST_TEMPLATE.md
+|4,39,38,79,1657162401,"~/.github/PULL_REQUEST_TEMPLATE.md"
+-'  1  0  ~/.github/PULL_REQUEST_TEMPLATE.md
+|4,39,1,0,1657161993,"~/.github/PULL_REQUEST_TEMPLATE.md"
 -'  1  0  ~/.github/PULL_REQUEST_TEMPLATE.md
 |4,39,1,0,1657161993,"~/.github/PULL_REQUEST_TEMPLATE.md"
 -'  1  45  ~/product.html
@@ -59,6 +67,30 @@
 |4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
 -'  1  8  ~/.gnupg/gpp.conf
 |4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
+-'  1  8  ~/.gnupg/gpp.conf
+|4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
+-'  1  8  ~/.gnupg/gpp.conf
+|4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
+-'  1  8  ~/.gnupg/gpp.conf
+|4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
+-'  1  8  ~/.gnupg/gpp.conf
+|4,39,1,8,1656993334,"~/.gnupg/gpp.conf"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
+-'  1  26  ~/contact.html
+|4,39,1,26,1656992747,"~/contact.html"
 -'  1  26  ~/contact.html
 |4,39,1,26,1656992747,"~/contact.html"
 -'  1  26  ~/contact.html
@@ -107,6 +139,38 @@
 |4,39,1,0,1656990995,"~/html/index.html"
 -'  1  0  ~/html/index.html
 |4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
+-'  1  0  ~/html/index.html
+|4,39,1,0,1656990995,"~/html/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1656988587,"~/index.html"
 -'  1  18  ~/index.html
@@ -171,80 +235,25 @@
 |4,39,1,18,1656988587,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1656988587,"~/index.html"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
--'  1  7  ~/.bash_profile
-|4,39,1,7,1656944382,"~/.bash_profile"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1656988587,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/product.html
+	*	1657164416	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/.github/PULL_REQUEST_TEMPLATE.md
 	*	1657162394	0
@@ -252,13 +261,6 @@
 	^	38	80
 	.	38	0
 	+	38	0
-
-> ~/product.html
-	*	1657153082	0
-	"	1	45
-	^	1	46
-	.	1	40
-	+	1	40
 
 > ~/.gnupg/gpp.conf
 	*	1656993329	0
